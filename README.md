@@ -1,1 +1,1 @@
-# The Ticketing App
+The Ticket Issuing App is a powerful application developed in C++ that facilitates the seamless issuance of tickets for various events, such as concerts, movies, sports matches, and more. With its robust functionality and efficient design, the app offers a user-friendly experience for both event organizers and ticket purchasers.
